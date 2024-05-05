@@ -1,0 +1,1 @@
+paste Mutants.txt average_hydrophobicity > Average_Local_Hydrophobicity.txt

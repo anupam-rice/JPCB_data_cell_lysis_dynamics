@@ -1,0 +1,1 @@
+paste MFPT_iScience.txt average_hydrophobicity > MFPT_Average_Local_Hydrophobicity.txt
